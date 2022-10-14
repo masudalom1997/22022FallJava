@@ -1,6 +1,6 @@
 package java_basics;
 
-public class Car {
+public class MyCar {
 
     static String typeOfVehicle ="Car";
     String color;

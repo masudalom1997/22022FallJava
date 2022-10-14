@@ -5,8 +5,8 @@ public class CarTest {
 
     public static void main(String[] args) {
 
-        Car bmw = new Car();
-        Car ford = new Car();
+        MyCar bmw = new MyCar();
+        MyCar ford = new MyCar();
 
 
 //        System.out.println(bmw);
